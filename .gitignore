@@ -1,0 +1,11 @@
+# Build artifacts
+/concurrent-chat
+*.exe
+*.out
+*.test
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+
